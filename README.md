@@ -60,6 +60,6 @@ to run `install_chocolaty.yaml` ansible playbook, run the below command.
 `ansible-playbook -i inventory install_chocolaty.yaml`
 
 
-##Pending Task
+## Pending Task
 Out of 4 tasks which was assigned to me to complete, I was not able to figure it out how to setup/configure ssh port configuration on Windows Managed host using Ansible playbook. I've always worked on Linux enviroment and I've never got opportunity to manage Windows host using Ansible, hence I couldn't find solution for that partcular task.
 
